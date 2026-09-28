@@ -13,4 +13,4 @@ INC0001011,Wi-Fi dropping in conference rooms,Wi-Fi connectivity drops every 10-
 INC0001012,Blue screen error on workstation,User workstation showing BSOD with error SYSTEM_SERVICE_EXCEPTION. Happens 2-3 times per day.,Hardware,P2,Desktop-Support,2024-01-16 16:00:00,Open
 INC0001013,MFA not working - cannot login,Multi-factor authentication app not generating codes. User cannot login to any corporate systems.,Access,P1,Security-Ops,2024-01-15 13:00:00,Open
 INC0001014,Database backup job failed,Nightly backup job for Oracle DB failed at 02:00. No backup created. DBA team alerted.,Server,P2,DBA-Team,2024-01-16 08:00:00,Open
-INC0001015,New employee onboarding - account setup,New joiner starting Monday needs: AD account, email, VPN access, laptop provisioned.,Access,P3,Service-Desk,2024-01-19 09:00:00,Open
+INC0001015,New employee onboarding - account setup,"New joiner starting Monday needs: AD account, email, VPN access, laptop provisioned.",Access,P3,Service-Desk,2024-01-19 09:00:00,Open
